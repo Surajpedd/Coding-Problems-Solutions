@@ -8,7 +8,6 @@ def find(L,n,x,p):
                 ret=i
     return ret
 
-    
 t=int(input())
 for i in range(t):
     n,x,p,k=map(int,input().split(" "))

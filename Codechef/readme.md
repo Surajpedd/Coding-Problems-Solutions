@@ -1,1 +1,1 @@
-# Codechef Monthly Long Challenge Solutions
+# Codechef Long Challenge Solutions

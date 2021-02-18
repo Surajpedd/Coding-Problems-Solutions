@@ -1,1 +1,1 @@
-New
+# Codechef Long Challenge Solutions
